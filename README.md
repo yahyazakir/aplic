@@ -1,0 +1,2 @@
+# aplic
+ creat consol
